@@ -1,9 +1,9 @@
 {
   "certificate_sha256": "823ff9afe9baad124cbb73cb223cfa1dc18478a07158b7be039b99e0fed66dd4",
   "package": "org.focus.mobile",
-  "sha256": "5fb7653ebfac8c5be1967e404a26de637c88818b0b1e856b1029b8f8512cc92a",
-  "size": 99146,
-  "source_revision": "e9eb6554a13f15017c94f27f13f5d51bdf5c8f58",
-  "version": "1.9.0",
-  "version_code": 13
+  "sha256": "5874c942e0cba7b1133cc6e7abf3aebcfc67d8580fe0bcf0dc20f8fafbb91a86",
+  "size": 3507668,
+  "source_revision": "3d4fa40d34ba1a6eff272aa33f0f2031dc999eed",
+  "version": "1.10.0",
+  "version_code": 14
 }
